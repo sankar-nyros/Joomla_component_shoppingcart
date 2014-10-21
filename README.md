@@ -29,6 +29,7 @@ This site uses the <a href="http://j2store.org/demo-stores.html">j2store shoppin
 
 <b>Enquries (Admin panel)</b>
 
-![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/masterJoomla/screens/enquries.png "Optional title") 
+![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/Joomla/screens/enquries.png "Optional title") 
+
 
 
