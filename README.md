@@ -15,6 +15,13 @@ This site uses the <a href="http://j2store.org/demo-stores.html">j2store shoppin
 </ul>
   
 
+<h2>Installation</h2>
+
+Download <b><i>com_j2store.zip</i><b> and install using joomla extension manager.
+<br>
+Change the settings for the modules <i>detail-cart</i> & <i>Currency converter</i> in module manager.
+
+
 <h2>Screenshots</h2>
 
 <b>Shopping Page</b>
