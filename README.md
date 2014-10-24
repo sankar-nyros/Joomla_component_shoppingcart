@@ -26,17 +26,17 @@ Change the settings for the modules <i>detail-cart</i> & <i>Currency converter</
 
 <b>Shopping Page</b>
 
-![Shopping](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/Joomla/screens/shopping.png "Optional title")
+![Shopping](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/screens/shopping.png "Optional title")
 
 
 <b>Previous orders</b>
 
-![Orders](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/Joomla/screens/orders.png "Optional title") 
+![Orders](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/screens/orders.png "Optional title") 
 
 
 <b>Enquries (Admin panel)</b>
 
-![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/Joomla/screens/enquries.png "Optional title") 
+![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/screens/enquries.png "Optional title") 
 
 
 
