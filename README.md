@@ -1,6 +1,6 @@
 <h1>Shopping cart</h1>
 
-This site uses the <a href="http://j2store.org/demo-stores.html">j2store shopping cart</a> extension.
+This Component uses the <a href="http://j2store.org/demo-stores.html">j2store shopping cart</a> extension.
 <br>
 <br>
 
