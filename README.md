@@ -12,7 +12,6 @@ This Component uses the <a href="http://j2store.org/demo-stores.html">j2store sh
    <li> Online Payment ( via <a href="https://app.paymill.com/">Paymill</a>) </li>
    <li> Quick view of current cart list with Items & Total </li>
    <li> Quick view of previous orders list with enquiry for the pending process </li>
-   <li> Coupons management ( In future ) </li>
 </ul>
   
 
