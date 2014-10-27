@@ -12,12 +12,13 @@ This site uses the <a href="http://j2store.org/demo-stores.html">j2store shoppin
    <li> Online Payment ( via <a href="https://app.paymill.com/">Paymill</a>) </li>
    <li> Quick view of current cart list with Items & Total </li>
    <li> Quick view of previous orders list with enquiry for the pending process </li>
+   <li> Coupons management ( In future ) </li>
 </ul>
   
 
 <h2>Installation</h2>
 
-Download <b><i>com_j2store.zip</i></b> and install using joomla extension manager.
+Download <b><i>com_shopping.zip</i></b> and install using joomla extension manager.
 <br>
 Change the settings for the modules <i>detail-cart</i> & <i>Currency converter</i> in module manager.
 
