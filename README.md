@@ -12,6 +12,7 @@ This Component uses the <a href="http://j2store.org/demo-stores.html">j2store sh
    <li> Online Payment ( via <a href="https://app.paymill.com/">Paymill</a>) </li>
    <li> Quick view of current cart list with Items & Total </li>
    <li> Quick view of previous orders list with enquiry for the pending process </li>
+   <li> Discount Coupons </li>
 </ul>
   
 
@@ -38,5 +39,15 @@ Change the settings for the modules <i>detail-cart</i> & <i>Currency converter</
 
 ![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/screens/enquries.png "Optional title") 
 
+
+<b>Coupon (Admin panel)</b>
+
+![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/screens/coupon_admin.png "Optional title") 
+
+
+
+<b>Coupon (Front end)</b>
+
+![Enquries](https://github.com/sankar-nyros/Joomla_component_shoppingcart/blob/master/screens/site_coupon.png "Optional title") 
 
 
